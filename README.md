@@ -1,16 +1,21 @@
-### Hi there 👋
+### Kamron Fozilov | #badcoder 👋
+> — “Programming made the impossible possible. You can have a null object and a constant variable.
 
-<!--
-**codewithkamron/codewithkamron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about anything [here](https://github.com/codewithkamron/codewithkamron/issues)
+---
+### I'm comfortable working with:
+- Typescript
+- Backend - NodeJS/NestJS (WebSockets, REST APIs, JSON-RPC)
+- Frontend - Vue/Nuxt/Vite
+- DevOps - CI/CD, Docker, Kubernetes, AWS, GCP
+- DBMS - relational databases (PostgreSQL)
+- MongoDB - NoSql database (Mongoose)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts:
+- E-mail: codewithkamron@gmail.com
+- Telegram: https://t.me/httpscode
+---
+### Social Network:
+- Instagram: https://instagram.com/codewithkamron
+- Telegram: https://t.me/codewithkamron
+- Youtube: https://www.youtube.com/channel/UCCrTjQkTSYFTLZriSxy5Hug
